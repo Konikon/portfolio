@@ -13,10 +13,10 @@ function LandPage(){
               </div>
               <div className="flipper">
                     <div className="front card">
-                        <img src={Ms} alt="logo" style={{background: "center"}}></img>
+                        <img src={Ms} alt="logo" ></img>
                     </div>
                     <div className="back card">
-                        <img src={Ms2} alt="logo" className="center"></img>
+                        <img src={Ms2} alt="logo"></img>
                     </div>
               </div>
         </div>
